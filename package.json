@@ -1,0 +1,8 @@
+{
+  "name": "github-circleci-heroku",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  }
+}
