@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/csabapalfi/github-circleci-heroku-example.svg?style=svg)](https://circleci.com/gh/csabapalfi/github-circleci-heroku-example)
+[![Circle CI](https://circleci.com/gh/csabapalfi/circleci-example.svg?style=shield)](https://circleci.com/gh/csabapalfi/circleci-example)
 
 # CircleCI Example
 
